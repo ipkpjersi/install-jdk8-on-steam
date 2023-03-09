@@ -5,7 +5,7 @@ install-jdk8-on-steam-deck
 * Credits
 * [How it works](#how-it-works)
 * [Usage](#usage)
-* [TO-DO](#to-do)
+
 <!--te-->
 
 Credits
