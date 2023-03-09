@@ -34,7 +34,7 @@ Taking this into account, the script located in the `scripts` directory of this 
 With this, you will have a *local* installation of java and even better, you can install multiple versions and then point
 to the one you need.
 
-This script only works for the jdk-8. For the excellent jdk-17 version, go here: https://github.com/BlackCorsair/install-jdk-on-steam-deck
+This script only works for the jdk-8. For the excellent jdk-17 version, go ![here](https://github.com/BlackCorsair/install-jdk-on-steam-deck).
 
 Usage
 =====
